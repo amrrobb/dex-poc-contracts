@@ -153,7 +153,3 @@ ARBISCAN_API_KEY=your_arbiscan_api_key
 ## 📄 License
 
 MIT License
-
----
-
-Part of the [Manexus DEX POC](https://github.com/your-org/manexus-dex-poc) project.
